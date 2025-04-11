@@ -16,6 +16,17 @@
     <title>Tweakers Mixed RSS Feed</title>
     <webMaster>gathering@tweakers.net</webMaster>
     <item>
+        <title>Patch My PC 5.1.3.0</title>
+        <link>https://tweakers.net/downloads/72296/patch-my-pc-5130.html</link>
+        <description>Versie 5.1.3.0 van Patch My PC is uitgekomen. Dit programma kan controleren of de laatste versies van ruim 500 populaire programma's zijn geïnstalleerd. Daarnaast kan het deze programma's ook installeren als ze nog niet aanwezig zijn en uiteraard ook weer verwijderen. In versie 5.0 heeft de gebruikersinterface een opfrisbeurt gekregen en moet het programma nu geïnstalleerd worden, waar het voorheen als portable applicatie gebruikt kon worden. De changelog voor deze uitgave kan hieronder worden gevonden. What’s new in 5.1.3.0:</description>
+        <author>Bart van Klaveren</author>
+        <category>Software-update / Software</category>
+        <comments>https://tweakers.net/downloads/72296/patch-my-pc-5130.html#reacties</comments>
+        <guid isPermaLink="false">https://tweakers.net/downloads/72296</guid>
+        <pubDate>Fri, 11 Apr 2025 08:30:00 GMT</pubDate>
+        <custom name="image">https://tweakers.net/ext/i/2007035022.png</custom>
+    </item>    
+    <item>
         <title>AMD kondigt op 12 juni Instinct-gpu aan met mogelijk tdp van 1000W</title>
         <link>https://tweakers.net/nieuws/233836/amd-kondigt-op-12-juni-instinct-gpu-aan-met-mogelijk-tdp-van-1000w.html</link>
         <description>AMD organiseert in juni een Avancing AI-evenement waar het nieuwe gpu's gaat tonen. Dat zijn gpu's voor datacenters, zoals de Instinct-lijn. Een van de gpu's krijgt mogelijk een tdp van tot wel 1000W.</description>
