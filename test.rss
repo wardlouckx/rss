@@ -1,0 +1,41 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+    <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
+    <pubDate>Fri, 11 Apr 2025 08:51:01 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 08:51:01 GMT</lastBuildDate>
+    <docs>https://tweakers.net/reviews/76</docs>
+    <description>Tweakers is de grootste hardwaresite en techcommunity van Nederland.</description>
+    <image>
+        <link>https://tweakers.net/</link>
+        <title>Tweakers</title>
+        <url>https://tweakers.net/g/if/logo.gif</url>
+        <description>Tweakers</description>
+    </image>
+    <language>nl-nl</language>
+    <link>https://tweakers.net/</link>
+    <title>Tweakers Mixed RSS Feed</title>
+    <webMaster>gathering@tweakers.net</webMaster>
+    <item>
+        <title>AMD kondigt op 12 juni Instinct-gpu aan met mogelijk tdp van 1000W</title>
+        <link>https://tweakers.net/nieuws/233836/amd-kondigt-op-12-juni-instinct-gpu-aan-met-mogelijk-tdp-van-1000w.html</link>
+        <description>AMD organiseert in juni een Avancing AI-evenement waar het nieuwe gpu's gaat tonen. Dat zijn gpu's voor datacenters, zoals de Instinct-lijn. Een van de gpu's krijgt mogelijk een tdp van tot wel 1000W.</description>
+        <author>Tijs Hofmans</author>
+        <category>Nieuws / Computers / Videokaarten</category>
+        <comments>https://tweakers.net/nieuws/233836/amd-kondigt-op-12-juni-instinct-gpu-aan-met-mogelijk-tdp-van-1000w.html#reacties</comments>
+        <guid isPermaLink="false">https://tweakers.net/nieuws/233836</guid>
+        <pubDate>Fri, 11 Apr 2025 08:00:06 GMT</pubDate>
+        <custom name="image">https://pbs.twimg.com/media/GoGFmh5WQAAgXfP.jpg</custom>
+    </item>
+    <item>
+        <title>FreeDOS 1.4</title>
+        <link>https://tweakers.net/downloads/72294/freedos-14.html</link>
+        <description>FreeDOS is, zoals de naam al laat vermoeden, een omgeving die compatibel is met MS-DOS en die onder de GPL wordt uitgebracht. Hoewel de gewone thuisgebruiker al jaren geleden is overgeschakeld naar een grafisch besturingssysteem, bestaat er toch een redelijk grote markt voor dit besturingssysteem. Veel embedded systemen maken nog gebruik van MS-DOS, zoals kassa's en draagbare barcode-lezers, maar moeten daarvoor nog steeds licentiegelden afdragen. Daarnaast kan het ook worden gebruikt in bedrijfsomgevingen voor applicaties die alleen correct werken in een DOS-omgeving. Voor meer informatie verwijzen we jullie door naar deze pagina. De ontwikkelaars hebben FreeDOS 1.4 uitgebracht met de volgende aankondiging: FreeDOS 1.4</description>
+        <author>Bart van Klaveren</author>
+        <category>Software-update / Software</category>
+        <comments>https://tweakers.net/downloads/72294/freedos-14.html#reacties</comments>
+        <guid isPermaLink="false">https://tweakers.net/downloads/72294</guid>
+        <pubDate>Fri, 11 Apr 2025 07:00:00 GMT</pubDate>
+        <custom name="image">https://tweakers.net/ext/i/2007392638.png</custom>
+    </item>
+    </channel>
+</rss>
